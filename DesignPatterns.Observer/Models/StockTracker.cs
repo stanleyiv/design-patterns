@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DesignPatterns.Observer
+namespace DesignPatterns.Observer.Models
 {
     public class StockTracker : IObservable<Stock>
     {
@@ -21,8 +21,8 @@ namespace DesignPatterns.Observer
 
             public Unsubscriber(List<IObserver<Stock>> observers, IObserver<Stock> observer)
             {
-                this._observers = observers;
-                this._observer = observer;
+                _observers = observers;
+                _observer = observer;
             }
 
             public void Dispose()

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Observer
+namespace DesignPatterns.Observer.Models
 {
     public class StockListener : IObserver<Stock>
     {

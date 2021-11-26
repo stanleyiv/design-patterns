@@ -1,4 +1,5 @@
-﻿using System.Threading;
+﻿using DesignPatterns.Observer.Models;
+using System.Threading;
 
 namespace DesignPatterns.Observer
 {
@@ -18,9 +19,9 @@ namespace DesignPatterns.Observer
             observer1.Subscribe(provider);
             observer2.Subscribe(provider);
 
-            provider.GetStock(123); // emit
+            provider.GetStock(123);
             Thread.Sleep(500);
-            provider.GetStock(556); // emit
+            provider.GetStock(556);
         }
     }
 }
