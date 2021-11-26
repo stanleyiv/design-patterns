@@ -1,0 +1,11 @@
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.exe
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.deps.json
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.runtimeconfig.json
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.runtimeconfig.dev.json
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.dll
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\bin\Debug\netcoreapp3.1\DesignPatterns.Observer.pdb
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\obj\Debug\netcoreapp3.1\DesignPatterns.Observer.csprojAssemblyReference.cache
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\obj\Debug\netcoreapp3.1\DesignPatterns.Observer.AssemblyInfoInputs.cache
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\obj\Debug\netcoreapp3.1\DesignPatterns.Observer.AssemblyInfo.cs
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\obj\Debug\netcoreapp3.1\DesignPatterns.Observer.dll
+C:\Users\Stanley\source\repos\random-code\DesignPatterns\DesignPatterns.Observer\obj\Debug\netcoreapp3.1\DesignPatterns.Observer.pdb
